@@ -25,7 +25,7 @@
 <img width="1112" height="760" alt="스크린샷 2026-04-01 오전 10 36 05" src="https://github.com/user-attachments/assets/19fa16f2-fe4f-4f31-95e8-5cf8aaf1c921" />
 <img width="627" height="259" alt="스크린샷 2026-04-01 오전 10 36 42" src="https://github.com/user-attachments/assets/a689ab27-bb58-416e-87d2-eb90c2717616" />
         
-- [ ]  **4. 회고를 잘 작성했나요?**
+- [✔]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
